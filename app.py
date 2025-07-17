@@ -41,13 +41,13 @@ with col2:
     st.markdown("<h1 class='header'>ECOLS Research Group</h1>", unsafe_allow_html=True)
     st.markdown("""
     <h3 style='color: #6B6B6B;'>AI for Social Impact & Mental Health Analysis</h3>
-    <p>University of São Paulo (USP) Research Initiative</p>
+    <p>The University of the South Pacific (USP) Research Initiative</p>
     """, unsafe_allow_html=True)
 
 # Main Content
 st.markdown("""
 ## 🌟 About ECOLS
-The **ECOLS** (Emerging Computing for Social Solutions) research group at USP focuses on developing AI-driven solutions 
+The **ECOLS** (Evolutionary Computation & Learning Systems Research Group) research group at USP focuses on developing AI-driven solutions 
 for mental health analysis, social impact assessment, and human-computer interaction. Our interdisciplinary approach 
 combines machine learning, natural language processing, and psychological insights to create meaningful tools for society.
 """)
@@ -150,6 +150,6 @@ st.markdown("""
 <div style='text-align: center;'>
     <p>🔗 <a href="https://github.com/ECOLS-research-group" target="_blank">ECOLS GitHub Repository</a></p>
     <p>📧 Contact us at: ecols-research@usp.br</p>
-    <p>© 2024 ECOLS Research Group | University of São Paulo</p>
+    <p>© 2025 ECOLS Research Group | The University of the South Pacific (USP)</p>
 </div>
 """, unsafe_allow_html=True)
