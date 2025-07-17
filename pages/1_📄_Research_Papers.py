@@ -65,20 +65,18 @@ st.markdown(
 st.title("📄 ECOLS Research Publications")
 st.markdown("Explore our latest research in AI for mental health and social media analysis")
 
-# -- Paper 1 --
+# -- Paper 1 (updated) --
 paper1_html = """
 <div class="paper-card">
     <h2 class="paper-title">Depression Detection Using BERT on Social Media Platforms</h2>
-    <p class="paper-authors">Anuraag Raj, Deshant Singh, Anuraganand Sharma</p>
+    <p class="paper-authors">Anuraag Raj, Zain Ali, Shonal Chaudhary, Kavitesh Kumar Bali, Anuraganand Sharma</p>
     <div class="paper-meta">
-        <span class="paper-meta-item">📅 2023</span>
-        <span class="paper-meta-item">🏷️ <span class="tag">NLP</span> <span class="tag">Mental Health</span> <span class="tag">BERT</span></span>
-        <span class="paper-meta-item">📊 ResearchGate</span>
+        <span class="paper-meta-item">📅 Aug 2024</span>
+        <span class="paper-meta-item">🏷️ <span class="tag">BERT</span> <span class="tag">Transformer</span> <span class="tag">Depression Detection</span></span>
+        <span class="paper-meta-item">📊 IEEE IICAIET 2024</span>
     </div>
     <div class="paper-abstract">
-        <strong>Abstract:</strong> This paper presents a novel approach for detecting depression from social media posts using BERT-based models. 
-        We fine‑tuned BERT on a carefully curated dataset of mental health‑related posts, achieving state‑of‑the‑art performance 
-        in depression classification. Our model demonstrates 89% accuracy in identifying at‑risk individuals through their language patterns.
+        <strong>Abstract:</strong> Depression detection from social media has attracted significant attention due to its potential to offer early intervention and support to individuals facing mental health issues. In this study, we present a comprehensive evaluation of deep learning techniques for depression detection, with a specific focus on leveraging BERT, a powerful NLP Transformer model. Our exploration encompasses tailored preprocessing for social media text, diverse feature extraction methods, and optimized BERT-based model architectures. Through rigorous experimentation, we compare different strategies on accuracy, efficiency, and scalability, and analyze performance on both labeled and unlabeled data.
     </div>
     <a href="https://www.researchgate.net/profile/Anuraag-Raj/publication/385414089_Depression_Detection_Using_BERT_on_Social_Media_Platforms/links/6834014e026fee1034fbd774/Depression-Detection-Using-BERT-on-Social-Media-Platforms.pdf" target="_blank">
         <button style="background-color: #4B8BBE; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer;">
