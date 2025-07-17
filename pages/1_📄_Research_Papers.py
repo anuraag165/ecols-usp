@@ -89,23 +89,20 @@ paper1_html = """
 """
 st.markdown(paper1_html, unsafe_allow_html=True)
 
-# -- Paper 2 --
+# -- Paper 2 (updated) --
 paper2_html = """
 <div class="paper-card">
-    <h2 class="paper-title">AI-Based Sentiment Analysis for Mental Health Assessment</h2>
-    <p class="paper-authors">Anuraganand Sharma, Anuraag Raj, Deshant Singh</p>
+    <h2 class="paper-title">Uncovering Depression with LSTM and NLP Transformers in Social Media Posts</h2>
+    <p class="paper-authors">Anuraag Raj, Zain Ali, Shonal Chaudhry, Anuraganand Sharma</p>
     <div class="paper-meta">
-        <span class="paper-meta-item">📅 2020</span>
-        <span class="paper-meta-item">🏷️ <span class="tag">Sentiment Analysis</span> <span class="tag">AI</span> <span class="tag">Mental Health</span></span>
-        <span class="paper-meta-item">📊 Springer</span>
+        <span class="paper-meta-item">📅 2025</span>
+        <span class="paper-meta-item">🏷️ <span class="tag">LSTM</span> <span class="tag">Transformers</span> <span class="tag">Depression Detection</span></span>
+        <span class="paper-meta-item">📊 ResearchGate</span>
     </div>
     <div class="paper-abstract">
-        <strong>Abstract:</strong> This research explores advanced sentiment analysis techniques for mental health assessment in digital 
-        communication. We propose a hybrid model combining lexicon-based approaches with deep learning, capable of detecting subtle 
-        emotional cues indicative of mental health conditions. The system achieves 85% precision in identifying high-risk cases across 
-        multiple languages.
+        <strong>Abstract:</strong> Depression detection from social media has garnered significant attention due to its potential to provide early intervention and support for individuals experiencing mental health challenges. In this study, we present a comprehensive comparative evaluation of the two most prominent state-of-the-art deep learning techniques for depression detection: Long Short-Term Memory (LSTM) networks and NLP Transformers, leveraging social media data to discern patterns indicative of depressive symptoms.
     </div>
-    <a href="https://link.springer.com/article/10.1007/s42485-020-00044-9" target="_blank">
+    <a href="https://www.researchgate.net/profile/Anuraag-Raj/publication/392903166_Uncovering_Depression_with_LSTM_and_NLP_Transformers_in_Social_Media_Posts/links/68588ff207d6d53e82edb964/Uncovering-Depression-with-LSTM-and-NLP-Transformers-in-Social-Media-Posts.pdf" target="_blank">
         <button style="background-color: #4B8BBE; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer;">
             📄 Read Full Paper
         </button>
