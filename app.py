@@ -72,7 +72,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
 ])
 
 with tab1:
-    st.header("Research Publications")
+    st.header("Selected Research Publications")
     st.markdown("""
     - **Adaptive Evolutionary Algorithms for Real‑Time Control** (CEC 2024)  
     - **Transformer‑Based NLP for Social Media Analysis** (IEEE Access 2023)  
